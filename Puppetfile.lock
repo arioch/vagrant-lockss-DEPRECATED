@@ -1,0 +1,10 @@
+GIT
+  remote: git@github.com:arioch/puppet-lockss.git
+  ref: master
+  sha: 8fe89f0870eca7e8f7034af4b9a83252b9cc671e
+  specs:
+    lockss (0.0.1)
+
+DEPENDENCIES
+  lockss (>= 0)
+
