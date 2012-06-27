@@ -45,12 +45,12 @@ The default credentials are:
 Browse to:
 
 [http://localhost:1081](http://localhost:1081) <br>
-[http://localhost:1082](http://localhost:1082) <br>
-[http://localhost:1083](http://localhost:1083) <br>
-[http://localhost:1084](http://localhost:1084) <br>
-[http://localhost:1085](http://localhost:1085) <br>
-[http://localhost:1086](http://localhost:1086) <br>
-[http://localhost:1087](http://localhost:1087) <br>
+[http://localhost:2081](http://localhost:2081) <br>
+[http://localhost:3081](http://localhost:3081) <br>
+[http://localhost:4081](http://localhost:4081) <br>
+[http://localhost:5081](http://localhost:5081) <br>
+[http://localhost:6081](http://localhost:6081) <br>
+[http://localhost:7081](http://localhost:7081) <br>
 
 The default credentials are:
 
