@@ -4,15 +4,11 @@
 
 ## Requirements
 
+- [Git](http://git-scm.com/)
 - [Ruby](http://www.ruby-lang.org/) (1.8.5 or higher)
 - [Rubygems](http://rubygems.org/)
+- [Bundler](http://gembundler.com/)
 - [Vagrant](http://vagrantup.com/)
-- [Puppet](http://www.puppetlabs.com/)
-- [Librarian-puppet](https://github.com/rodjek/librarian-puppet)
-- [Git](http://git-scm.com/)
-- [RSpec](http://rspec.info/) (development only)
-- [RSpec-Puppet](http://rspec-puppet.com/) (development only)
-- [Cucumber](http://cukes.info/) (development only)
 
 
 ## Install
@@ -21,7 +17,7 @@
 
     $ git clone https://github.com/arioch/vagrant-lockss ~/vagrant-lockss
     $ cd ~/vagrant-lockss
-    $ librarian-puppet install
+    $ bundle exec make
 
 ## Run a single box
 
