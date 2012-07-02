@@ -5,7 +5,8 @@
 ## Requirements
 
 - [Git](http://git-scm.com/)
-- [Ruby](http://www.ruby-lang.org/) (1.8.5 or higher)
+- [Ruby](http://www.ruby-lang.org/) (1.8.5 or higher. On OSX it's recommended to use brew to install Ruby.)
+- [Homebrew](http://mxcl.github.com/homebrew/) (OSX only)
 - [Rubygems](http://rubygems.org/)
 - [Bundler](http://gembundler.com/)
 - [Vagrant](http://vagrantup.com/)
