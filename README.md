@@ -36,6 +36,8 @@ The default credentials are:
 
 ## Run a 7-node cluster
 
+*This requires at least 3.4GB of RAM available.*
+
     $ cd ~/vagrant-lockss
     $ vagrant up
 
